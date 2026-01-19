@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         no tocar hdsptm v2.2
+// @name         no tocar hdsptm v2.3
 // @namespace    http://tampermonkey.net/
 // @version      2026-01-18
 // @description  fetch mínimo, DOM mínimo, filtros funcionando
