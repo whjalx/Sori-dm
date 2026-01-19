@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         no tocar hdsptm v2.2
 // @namespace    http://tampermonkey.net/
-// @version      2026-01-17
+// @version      2026-01-18
 // @description  fetch mínimo, DOM mínimo, filtros funcionando
 // @author       0xJc4st
 // @match        https://omsmercurio.soriana.com/*
